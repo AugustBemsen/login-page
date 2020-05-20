@@ -1,7 +1,7 @@
 import React from "react";
 import Input from "./Inputs";
 
-function Form(props) {
+function Login(props) {
   return (
     <div>
       <h1>Hello</h1>
@@ -14,4 +14,4 @@ function Form(props) {
   );
 }
 
-export default Form;
+export default Login;
